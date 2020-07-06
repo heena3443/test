@@ -21,6 +21,7 @@ class Derived extends Base {
 
 	public void show() {
        System.out.println("Derived::show() called");
+       System.out.println("Derived::show() called");
     }
 }
   
